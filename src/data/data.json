@@ -1,0 +1,482 @@
+{
+    "hero1": {
+        "subtitle": "VPN PROTECTION HEHE",
+        "title": "Your Life is Under Our Security",
+        "desc": "Strategies focused on increase ingenue private privacy and visibility of your business",
+        "button": {
+            "btn_text": "Get it now",
+            "btn_url": "#"
+        },
+        "playButton": {
+            "btn_text": "Play Intro",
+            "btn_url": "https://www.youtube.com/watch?v=ni5hRK1ehzk"
+        },
+        "images": {
+            "Main_Img": {
+                "url": "images/media/main-img.png",
+                "alt": "Main Image"
+            },
+            "Setting_Img": {
+                "url": "images/media/setting.png",
+                "alt": "Setting Image"
+            },
+            "Sheild_Img": {
+                "url": "images/media/sheild.png",
+                "alt": "Sheild Image"
+            },
+            "Lock_Img": {
+                "url": "images/media/lock.png",
+                "alt": "Lock Image"
+            },
+            "Card_Img": {
+                "url": "images/media/card.png",
+                "alt": "Card Image"
+            },
+            "Box_Img": {
+                "url": "images/media/box.png",
+                "alt": "Box Image"
+            },
+            "Check_Img": {
+                "url": "images/media/check.png",
+                "alt": "Check Image"
+            },
+            "Setting2": {
+                "url": "images/media/setting2.png",
+                "alt": "Setting2 Image"
+            },
+            "resImg": {
+                "url": "images/media/banner-img.png",
+                "alt": "Banner Image"
+            }
+        }
+    },
+    "hero2": {
+        "subtitle": "VPN PROTECTION",
+        "title": "Your Life is Under Our Security",
+        "desc": "Strategies focused on increase ingenue private privacy and visibility of your business",
+        "button": {
+            "btn_text": "Get it now",
+            "btn_url": "#"
+        },
+        "playButton": {
+            "btn_text": "Play Intro",
+            "btn_url": "https://www.youtube.com/watch?v=ni5hRK1ehzk"
+        },
+        "img": [
+            
+        ]
+    },
+    "feature": {
+        "title": "How it Works",
+        "desc": "These speeds are excellent. It’s rare that a fast connection safety Internet leading speeds across its network.",
+        "items": [
+            {
+                "img": {
+                    "url": "images/icons/easy_download_icon.png",
+                    "alt": "Easy Download Image"
+                },
+                "title": "Easy Download",
+                "desc": "Srivate Internet the leading best create several security providing safety on the internet."
+            },
+            {
+                "img": {
+                    "url": "images/icons/instant_setup_icon.png",
+                    "alt": "Instant Setup Icon"
+                },
+                "title": "Instant Setup",
+                "desc": "Srivate Internet the leading best create several security providing safety on the internet."
+            },
+            {
+                "img": {
+                    "url": "images/icons/enjoy_wordwide_icon.png",
+                    "alt": "Enjoy WorldWide Image"
+                },
+                "title": "Enjoy Worldwide",
+                "desc": "Srivate Internet the leading best create several security providing safety on the internet."
+            }
+        ]
+    },
+    "solution": {
+        "title": "Yours simple solutions online privacy.",
+        "desc": "These speeds are its excellent. It’s rare that a dvpn fast connection speeds across its network. Private Internet its Access is the leadings provide service provider.",
+        "items": [
+            {
+                "img": {
+                    "url": "images/icons/editor.png",
+                    "alt": "Editor Icon"
+                },
+                "title": "Government User",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries."
+            },
+            {
+                "img": {
+                    "url": "images/icons/eye.png",
+                    "alt": "Eye Icon"
+                },
+                "title": "Hidden Hackers",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries."
+            }
+        ],
+        "images": {
+            "mainImg": {
+                "url": "images/media/s_main.png",
+                "alt": "Main Img"
+            },
+            "man": {
+                "url": "images/media/man.png",
+                "alt": "Man Image"
+            },
+            "woman": {
+                "url": "images/media/woman.png",
+                "alt": "Woman Image"
+            },
+            "fullImg": {
+                "url": "images/media/solution-img.png",
+                "alt": "Main Image"
+            }
+        } 
+    },
+    "service": {
+        "title": "Valuable Service",
+        "desc": "These speeds are excellent. It’s rare that a fast connection safety Internet leading speeds across its network.",
+        "items": [
+            {
+                "img": {
+                    "url": "images/icons/services_icon1.png",
+                    "alt": "Service Icon"
+                },
+                "title": "Government User",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries.",
+                "button": {
+                    "url": "#",
+                    "text": "Read More"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/icons/services_icon2.png",
+                    "alt": "Service Icon"
+                },
+                "title": "Premium Services",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries.",
+                "button": {
+                    "url": "#",
+                    "text": "Read More"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/icons/services_icon3.png",
+                    "alt": "Service Icon"
+                },
+                "title": "Gigabit Service",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries.",
+                "button": {
+                    "url": "#",
+                    "text": "Read More"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/icons/services_icon4.png",
+                    "alt": "Service Icon"
+                },
+                "title": "Instant Setups",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries.",
+                "button": {
+                    "url": "#",
+                    "text": "Read More"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/icons/services_icon5.png",
+                    "alt": "Service Icon"
+                },
+                "title": "No Traffic Logs",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries.",
+                "button": {
+                    "url": "#",
+                    "text": "Read More"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/icons/services_icon6.png",
+                    "alt": "Service Icon"
+                },
+                "title": "No Hidden Price",
+                "desc": "Security providing you safety on the internet trice worldwide access in 47+ countries.",
+                "button": {
+                    "url": "#",
+                    "text": "Read More"
+                }
+            }
+        ]
+    },
+    "price": {
+        "title": "Pricing Plan",
+        "desc": "These speeds are excellent. It’s rare that a fast connection safety Internet leading speeds across its network.",
+        "bg_pattern": {
+            "url": "images/media/price-bg.png",
+            "alt": "Price Background Pattern"
+        },
+        "items": [
+            {
+                "title": "Monthly",
+                "saving": "Save 42%",
+                "price": {
+                    "currency": "$",
+                    "value": "3.66",
+                    "duration": "/MO"
+                },
+                "feature_list": {
+                    "price": {
+                        "base_price": "$143.88",
+                        "sale_price": "$83.88"
+                    },
+                    "feature1": "build payment every years",
+                    "feature2": "24/7 active support"
+                },
+                "button": {
+                    "url": "#",
+                    "text": "get it now"
+                }
+            },
+            {
+                "ribbon": "Best Deal",
+                "title": "Yearly",
+                "saving": "Save 58%",
+                "price": {
+                    "currency": "$",
+                    "value": "4.66",
+                    "duration": "/MO"
+                },
+                "feature_list": {
+                    "price": {
+                        "base_price": "$220.88",
+                        "sale_price": "$143.88"
+                    },
+                    "feature1": "build payment every years",
+                    "feature2": "24/7 active support"
+                },
+                "button": {
+                    "url": "#",
+                    "text": "get it now"
+                }
+            },
+            {
+                "title": "Lifetime",
+                "saving": "Save 78%",
+                "price": {
+                    "currency": "$",
+                    "value": "6.66",
+                    "duration": "/MO"
+                },
+                "feature_list": {
+                    "price": {
+                        "base_price": "$560.69",
+                        "sale_price": "$333.88"
+                    },
+                    "feature1": "build payment every years",
+                    "feature2": "24/7 active support"
+                },
+                "button": {
+                    "url": "#",
+                    "text": "get it now"
+                }
+            }
+        ]
+    },
+    "team": {
+        "title": "Service Team",
+        "desc": "These speeds are excellent. It’s rare that a fast connection safety Internet leading speeds across its network.",
+        "items": [
+            {
+                "img": {
+                    "url": "images/media/team_img1.png",
+                    "alt": "Team Image"
+                },
+                "title": "Michael Niotakis",
+                "subtitle": "Servie Holder",
+                "btn_url": "#", 
+                "socials": {
+                    "dribble_url": "https://dribbble.com/",
+                    "twitter_url": "https://www.twitter.com",
+                    "linkedin_url": "https://www.linkedin.com"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/media/team_img2.png",
+                    "alt": "Team Image"
+                },
+                "title": "Lisa O’Keeffe",
+                "subtitle": "App Designer",
+                "btn_url": "#", 
+                "socials": {
+                    "dribble_url": "https://dribbble.com/",
+                    "twitter_url": "https://www.twitter.com",
+                    "linkedin_url": "https://www.linkedin.com"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/media/team_img3.png",
+                    "alt": "Team Image"
+                },
+                "title": "Michael Niotakis",
+                "subtitle": "UI/UX Designer",
+                "btn_url": "#", 
+                "socials": {
+                    "dribble_url": "https://dribbble.com/",
+                    "twitter_url": "https://www.twitter.com",
+                    "linkedin_url": "https://www.linkedin.com"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/media/team_img2.png",
+                    "alt": "Team Image"
+                },
+                "title": "Michael Niotakis",
+                "subtitle": "UI/UX Designer",
+                "btn_url": "#", 
+                "socials": {
+                    "dribble_url": "https://dribbble.com/",
+                    "twitter_url": "https://www.twitter.com",
+                    "linkedin_url": "https://www.linkedin.com"
+                }
+            }
+        ]
+    },
+    "testimonial": {
+        "title": "Customer Feedback",
+        "desc": "These speeds are excellent. It’s rare that a fast connection safety Internet leading speeds across its network.",
+        "items": [
+            {
+                "img": {
+                    "url": "images/media/testimonial_1-2.png",
+                    "alt": "Testimonial Image"
+                },
+                "desc": "Program easy to use, I feel very safe, very affordable the I can watchs my favorites shows France its the America problem whatsoever to offer that others.",
+                "title": "Michael Niotakis",
+                "subtitle": "Co-Founder"
+            },
+            {
+                "img": {
+                    "url": "images/media/testimonial_2.png",
+                    "alt": "Testimonial Image"
+                },
+                "desc": "Program easy to use, I feel very safe, very affordable the I can watchs my favorites shows France its the America problem whatsoever to offer that others.",
+                "title": "Ben Horowitz",
+                "subtitle": "Project Manager"
+            },
+            {
+                "img": {
+                    "url": "images/media/testimonial_3.png",
+                    "alt": "Testimonial Image"
+                },
+                "desc": "Program easy to use, I feel very safe, very affordable the I can watchs my favorites shows France its the America problem whatsoever to offer that others.",
+                "title": "Harverd Tanor",
+                "subtitle": "Chief Officer"
+            }
+        ]
+    },
+    "blog": {
+        "title": "Latest News",
+        "desc": "These speeds are excellent. It’s rare that a fast connection safety Internet leading speeds across its network.",
+        "items": [
+            {
+                "img": {
+                    "url": "images/blog/blog_img.png",
+                    "alt": "Blog Image"
+                },
+                "blog_meta": {
+                    "date": "18 July"
+                },
+                "title": "One Security Solutions",
+                "desc": "She travelling acceptance men unpleasant her especially to",
+                "button": {
+                    "url": "#",
+                    "text": "read more"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/blog/blog_img2.png",
+                    "alt": "Blog Image"
+                },
+                "blog_meta": {
+                    "date": "29 July"
+                },
+                "title": "Today Better Tomorrow",
+                "desc": "She travelling acceptance men unpleasant her especially to",
+                "button": {
+                    "url": "#",
+                    "text": "read more"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/blog/blog_img3.png",
+                    "alt": "Blog Image"
+                },
+                "blog_meta": {
+                    "date": "27 July"
+                },
+                "title": "Professional Approach",
+                "desc": "She travelling acceptance men unpleasant her especially to",
+                "button": {
+                    "url": "#",
+                    "text": "read more"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/blog/blog_img4.png",
+                    "alt": "Blog Image"
+                },
+                "blog_meta": {
+                    "date": "30 July"
+                },
+                "title": "Security Protecting",
+                "desc": "She travelling acceptance men unpleasant her especially to",
+                "button": {
+                    "url": "#",
+                    "text": "read more"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/blog/blog_img5.png",
+                    "alt": "Blog Image"
+                },
+                "blog_meta": {
+                    "date": "19 July"
+                },
+                "title": "Professional Security",
+                "desc": "She travelling acceptance men unpleasant her especially to",
+                "button": {
+                    "url": "#",
+                    "text": "read more"
+                }
+            },
+            {
+                "img": {
+                    "url": "images/blog/blog_img6.png",
+                    "alt": "Blog Image"
+                },
+                "blog_meta": {
+                    "date": "28 July"
+                },
+                "title": "Available to Presence",
+                "desc": "She travelling acceptance men unpleasant her especially to",
+                "button": {
+                    "url": "#",
+                    "text": "read more"
+                }
+            }
+        ]
+    }
+}
