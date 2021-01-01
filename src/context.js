@@ -1,4 +1,3 @@
-import Axios from 'axios'
 import React, { Component } from 'react'
 import allData from './data/data.json'
 
@@ -9,7 +8,8 @@ class DataProvider extends Component {
     state = {
         allData: {},
         search: false,
-        offcanvas: false
+        offcanvas: false,
+        headerTop: false
     }
 
     componentDidMount() {
@@ -27,6 +27,24 @@ class DataProvider extends Component {
     handleOffcanvas = () => {
         this.setState({
             offcanvas: !this.state.offcanvas
+        })
+    }
+
+    openHeaderTop = () => {
+        this.setState({
+            headerTop: true
+        })
+    }
+
+    openHeaderTop = () => {
+        this.setState({
+            headerTop: true
+        })
+    }
+
+    closeHeaderTop = () => {
+        this.setState({
+            headerTop: false
         })
     }
 
