@@ -15,7 +15,8 @@ import Flag5 from '../images/flag5.png'
 import Flag6 from '../images/flag6.png'
 
 class Navbar extends Component {
-    
+    _isMounted = false;
+
     state = {
         stickyClass: '',
         mobileNav: false
@@ -23,40 +24,27 @@ class Navbar extends Component {
     myRef = React.createRef();
 
     componentDidMount() {
+        this._isMounted = true;
         window.addEventListener('scroll', this.handleScroll.bind(this));
-
-        // window.addEventListener('resize', this.ww.bind(this));
-        // this.ww()
     }
 
     componentWillUnmount() {
-        window.removeEventListener('scroll', this.handleScroll.bind(this));
+        this._isMounted = false;
+        // window.removeEventListener('scroll', this.handleScroll.bind(this));
     }
 
     handleScroll() {
         let lastScrollY = window.scrollY
 
-        if (lastScrollY >= 70) {
-
+        if (lastScrollY >= 70 && this._isMounted) {
             this.setState((state, props) => ({
                 stickyClass: 'sticky fadeInDown animated fixed-top'
             }));
-
         } else {
-
+            if(this._isMounted)
             this.setState((state, props) => ({
                 stickyClass: ''
             }));
-
-        }
-    }
-
-    ww() {
-        if (window.innerWidth <= 991) {
-            let li = document.querySelector('.header-main .nav-wrapper ul li').hasChildNodes('.ul.sub-menu')
-            console.log(li);
-            // .querySelector('ul li').parentElement.classList.contains('.nav-wrapper ul li')
-            // li.classList.add("has-sub-item");
         }
     }
 

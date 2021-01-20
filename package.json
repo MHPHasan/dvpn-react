@@ -1,7 +1,7 @@
 {
   "name": "dvpn",
   "version": "0.1.0",
-  "homepage":"https://dvpn-react.netlify.app/",
+  "homepage": "https://dvpn-react.netlify.app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
